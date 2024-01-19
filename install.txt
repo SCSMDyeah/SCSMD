@@ -1,0 +1,21 @@
+#SHARP
+devtools::install_github("shibiaowan/SHARP")
+
+#cidr
+devtools::install_github("VCCRI/CIDR")
+
+#SINCERA
+devtools::install_github("xu-lab/SINCERA")
+devtools::install_github("hemberg-lab/scRNA.seq.funcs")
+
+#Rphenograph
+devtools::install_github("JinmiaoChenLab/Rphenograph")
+
+#RaceID
+conda install r-RaceID
+
+#SC3
+devtools::install_github("hemberg-lab/SC3")
+
+#Seurat
+install.packages('Seurat')
